@@ -51,6 +51,15 @@ See also:
 - [METHODOLOGY.md](METHODOLOGY.md)
 - [SECURITY.md](SECURITY.md)
 
+## Community and demos
+
+- Kaggle dataset: https://www.kaggle.com/datasets/senihbayankulu/repository-intelligence-catalog
+- Kaggle notebook: https://www.kaggle.com/code/senihbayankulu/repository-intelligence-15-repo-demo
+- Roadmap: [ROADMAP.md](ROADMAP.md)
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- v0.2 retrieval benchmark: https://github.com/senih25/repository-intelligence-catalog/issues/1
+- Good first issue: https://github.com/senih25/repository-intelligence-catalog/issues/2
+
 ## Status
 
 **v0.1.0 public release.**
