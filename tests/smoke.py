@@ -5,7 +5,7 @@ ROOT=Path(__file__).resolve().parents[1]
 CSV=ROOT/'sample'/'curated_repositories.csv'
 SCHEMA=ROOT/'schema'/'repository.schema.json'
 
-rows=list(csv.DictReader(CSV.open(encoding='utf-8')))
+rows=list(csv.DictReader(CSV.open(encoding='utf-8-sig')))
 schema=json.loads(SCHEMA.read_text(encoding='utf-8'))
 required=set(schema['required'])
 assert len(rows)==15, f'expected 15 rows, got {len(rows)}'

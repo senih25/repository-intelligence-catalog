@@ -1,44 +1,19 @@
 # License Policy
 
-## Status
-**RELEASE-CANDIDATE POLICY — NOT YET A PUBLIC LICENSE GRANT**
+## Activated release policy
 
-## Code and documentation
-Preferred candidate: **Apache License 2.0**.
+### Original software and documentation
+**Apache License 2.0**
 
-Why:
-- permissive commercial/open-source use;
-- explicit copyright grant;
-- explicit patent grant;
-- supports NOTICE attribution;
-- suitable for code and documentation.
+The complete license text is in `LICENSE`. Original project code, schema, methodology and documentation are distributed under Apache-2.0 unless a file says otherwise.
 
-Final activation requires replacing the current license gate with the official Apache-2.0 LICENSE text and confirming the copyright/NOTICE lines.
+### Curated repository metadata sample
+The dataset is governed by `DATA_RIGHTS.md` and source/platform terms.
 
-## Dataset / metadata compilation
-Current policy: **Other / rights notice**.
+The project does not purport to sublicense third-party repository names, trademarks, licenses or underlying repository content.
 
-Reason:
-The curated dataset contains public GitHub repository metadata and our own selection/classification fields. We should not purport to sublicense third-party repository names, descriptions, metadata, trademarks, or underlying repository content beyond rights we actually hold.
-
-For private Kaggle staging:
-- license metadata = `other`;
-- description states that no public dataset license is granted yet;
-- third-party rights remain with their owners.
-
-A future public dataset release requires a separate rights/terms review and explicit license decision for the compilation/derived fields.
-
-## Source terms
-GitHub API usage remains subject to GitHub Terms of Service and API Terms.
-No token sharing, rate-limit circumvention, personal-data resale, or bulk source-code mirroring is permitted by this product policy.
+### Third-party source code
+Not redistributed.
 
 ## Commercial product boundary
-Commercial value comes from our:
-- project-specific retrieval workflow;
-- derived classification;
-- evidence gates;
-- reproducibility layer;
-- project memory;
-- decision intelligence.
-
-It is not positioned as resale of GitHub itself.
+The commercial value is our retrieval workflow, classification, evidence gates, reproducibility layer, project memory and decision intelligence—not resale of GitHub itself.

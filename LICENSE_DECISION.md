@@ -1,12 +1,11 @@
-# License Decision Gate
+# License Decision
 
-No public license has been selected for this product package yet.
+## Status
+**RESOLVED FOR PUBLIC RELEASE CANDIDATE**
 
-Before publishing:
-1. Select a license for our code and documentation.
-2. Select/confirm a compatible license for our compiled metadata dataset.
-3. Confirm GitHub API/Terms and attribution requirements for the intended release.
-4. Keep third-party repository source code out of the dataset.
-5. Record the decision in Obsidian and replace this gate with final LICENSE/NOTICE files.
+- Original code and documentation: **Apache-2.0**
+- Curated repository metadata sample: governed by **DATA_RIGHTS.md** and source/platform terms
+- Third-party repository source code: **not redistributed**
 
-Until then, this package is private staging and must not be advertised as open source.
+The Apache-2.0 text is stored in `LICENSE`.
+Apache-2.0 does not override third-party rights in repository names, metadata, trademarks, or underlying repositories.

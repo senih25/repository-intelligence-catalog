@@ -1,9 +1,8 @@
-# Notice
+Repository Intelligence Catalog
+Copyright 2026 Senih BAYANKULU
 
-Repository Intelligence Catalog is an independent project.
+This product includes original software and documentation licensed under the Apache License, Version 2.0.
 
-GitHub is a trademark of GitHub, Inc. This project is not affiliated with or endorsed by GitHub.
+The curated repository metadata sample is subject to DATA_RIGHTS.md. Third-party repository names, trademarks, licenses, and underlying content remain the property of their respective owners.
 
-Public repository metadata used in samples is retrieved from GitHub and remains subject to GitHub's Terms of Service and the rights of the respective repository owners.
-
-No third-party repository source code is redistributed by this package.
+GitHub is a trademark of GitHub, Inc. Repository Intelligence Catalog is an independent project and is not affiliated with or endorsed by GitHub.
