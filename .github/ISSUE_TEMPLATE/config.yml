@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Data rights and attribution
+    url: https://github.com/senih25/repository-intelligence-catalog/blob/main/DATA_RIGHTS.md
+    about: Review the metadata rights boundary before proposing dataset changes.
