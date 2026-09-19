@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Repository Intelligence Record",
+  "type": "object",
+  "required": ["category","repo_id","full_name","html_url","archived"],
+  "properties": {
+    "category": {"type":"string"},
+    "repo_id": {"type":"integer"},
+    "full_name": {"type":"string"},
+    "html_url": {"type":"string","format":"uri"},
+    "description": {"type":"string"},
+    "language": {"type":"string"},
+    "license_spdx": {"type":"string"},
+    "stars": {"type":"integer","minimum":0},
+    "forks": {"type":"integer","minimum":0},
+    "open_issues": {"type":"integer","minimum":0},
+    "archived": {"type":"boolean"},
+    "created_at": {"type":"string"},
+    "updated_at": {"type":"string"},
+    "pushed_at": {"type":"string"},
+    "default_branch": {"type":"string"}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "github": {
+    "endpoint": "https://api.github.com/repositories",
+    "per_page": 100,
+    "token_env": "GITHUB_TOKEN",
+    "user_agent": "Repository-Intelligence/0.1"
+  },
+  "storage": {
+    "mounted_cloud_root": "CHANGE_ME",
+    "local_hot_cache_gb": 5,
+    "local_staging_gb": 10,
+    "chunk_rows": 100000
+  },
+  "policy": {
+    "clone_repositories": false,
+    "license_required_for_reuse": true,
+    "full_harvest_requires_explicit_flag": true
+  }
+}
