@@ -53,8 +53,8 @@ See also:
 
 ## Status
 
-**v0.1.0 release candidate — public-ready after automated release checks pass.**
+**v0.1.0 public release.**
 
-Claims are bounded to dated evidence and reproducible sample artifacts.
+GitHub repository and curated Kaggle dataset are public. Claims remain bounded to dated evidence and reproducible sample artifacts.
 
 Repository Intelligence Catalog is an independent project and is not affiliated with or endorsed by GitHub.

@@ -12,5 +12,5 @@
 - [x] Security/schema smoke checks pass.
 - [x] Private GitHub and Kaggle staging validated.
 - [x] Release evidence stored in Obsidian/HERMX/Drive.
-- [ ] Public GitHub visibility enabled and verified.
-- [ ] Kaggle dataset public visibility enabled and verified.
+- [x] Public GitHub visibility enabled and verified.
+- [x] Kaggle dataset public visibility enabled and verified.
